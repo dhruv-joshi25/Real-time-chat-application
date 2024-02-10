@@ -14,7 +14,7 @@ This repository contains a simple chat application implemented in Python using s
 - Clone the repository to your local machine:
 
   ```bash
-  git clone https://github.com/your-username/chat-application-python.git
+  git clone https://github.com/dhruv-joshi25/Real-time-chat-application
   ```
 
 - Navigate to the project directory:
